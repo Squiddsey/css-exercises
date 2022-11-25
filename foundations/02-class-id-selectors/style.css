@@ -13,4 +13,11 @@
 
 #two {
     color: rgba(100, 155, 197, 0.8);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgba(124, 207, 116, 0.8);
+    font-size: 24px;
+    font-weight: bold;
 }
